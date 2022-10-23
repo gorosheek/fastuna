@@ -1,0 +1,66 @@
+body {
+    background-color: #15A4D0;
+}
+
+.wrapper {
+    padding: 30px 118.5px;
+}
+
+.nav {
+    padding-top: 9.5px;
+    padding-left: 288.75px;
+    
+}
+
+.nav a{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-right: 24px;
+
+}
+
+.login {
+    padding-left: 932px;
+}
+
+.login a{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #FFCE00;
+    text-decoration: none;
+    padding-right: 24px;
+}
+
+.claim {
+    background-image: url(/img/first_screen.png);
+    background-repeat: no-repeat;
+    border-left: 1000px;
+}
+
+.headline {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 94px;
+    line-height: 92px;
+    letter-spacing: -0.02em;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+@font-face {
+	font-family: 'Proxima Nova'; 
+	src: url(/fonts/proximanova_regular.ttf); 
+}
